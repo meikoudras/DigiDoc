@@ -1,0 +1,17 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/meikoudras/BeSimpleSoapClient"
+        }
+    ],
+    "require": {
+        "besimple/soap-bundle": "dev-master",
+        "besimple/soap-common": "dev-master",
+        "ass/xmlsecurity":      "dev-master",
+        "besimple/soap-client": "dev-bugfix as dev-master"
+    },
+    "autoload": {
+        "psr-0": {"Okiem": "lib/"}
+    }
+}
