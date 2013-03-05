@@ -1,3 +1,4 @@
 vendor/
 dd.sublime-project
 dd.sublime-workspace
+.DS_Store
